@@ -1,0 +1,1 @@
+# shrp_android_device_samsung_gts6l
